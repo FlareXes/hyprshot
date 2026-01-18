@@ -1,5 +1,7 @@
 # Hyprshot, but with Annotation
 
+<img src="https://github.com/FlareXes/assets/blob/main/hyprshot/demo_720p.gif" width="460" align="right" />
+
 A simple screenshot script for **Hyprland/Wayland**.
 
 📌 Output directory:
