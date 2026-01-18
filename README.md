@@ -1,4 +1,4 @@
-# Hyprshot: Hyprland Screenshot Script (slurp + grim + satty)
+# Hyprshot, but with Annotation
 
 A simple screenshot script for **Hyprland/Wayland**.
 
