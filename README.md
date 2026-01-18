@@ -71,8 +71,7 @@ So yeah... here we are.
 
 ## Credits
 
-- I stole the name
-  https://github.com/Gustash/Hyprshot
+I stole the name from https://github.com/Gustash/Hyprshot
 
 ## License
 
