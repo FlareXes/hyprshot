@@ -2,7 +2,7 @@
 
 # Hyprshot, but with Annotation
 
-<img src="https://raw.githubusercontent.com/FlareXes/assets/main/hyprshot/demo_720p.gif" width="600" />
+<img src="https://raw.githubusercontent.com/FlareXes/assets/main/hyprshot/demo_720p.gif" width="500" />
 
 A simple screenshot script for <b>Hyprland/Wayland</b>.
 
