@@ -1,11 +1,16 @@
+<div align="center">
+
 # Hyprshot, but with Annotation
 
-<img src="https://github.com/FlareXes/assets/blob/main/hyprshot/demo_720p.gif" width="460" align="right" />
+<img src="https://raw.githubusercontent.com/FlareXes/assets/main/hyprshot/demo_720p.gif" width="600" />
 
-A simple screenshot script for **Hyprland/Wayland**.
+A simple screenshot script for <b>Hyprland/Wayland</b>.
 
-📌 Output directory:
-- `~/Pictures/Screenshots`
+📌 Output directory:  
+<code>~/Pictures/Screenshots</code>
+
+</div>
+
 
 ## Dependencies
 
